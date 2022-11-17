@@ -12,6 +12,7 @@ int main() {
       case 1:
       area=(a*a);
       cout << area << endl;
+      break;
       case 2:
       area=(a*b);
       cout << area << endl;
